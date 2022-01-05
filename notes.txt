@@ -39,3 +39,15 @@ TABLES
 -td tag is used to define the table data, it is used inside the tr tag as well
 -caption tags are used to provide the index for our table
 -colspan attribute is used to merge 2 or more than 2 entries
+
+Day 2
+
+Divs & spans
+-Div is a block element
+-Span is an inline element
+
+Forms & input
+-Form tag is used as a wrapper for our input elements
+
+iframes
+-An iframe is used to embed another website inside our own website
