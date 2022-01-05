@@ -1,0 +1,41 @@
+Day 1
+
+BASICS
+-Always indent your child tags
+-Title tag is used to hold the title of our page
+-Meta tag is used to describe the data about our webpage
+-Heading tags go from h1 to h6
+-Html documents are read from top to bottom
+-Html does not care about whitespaces
+
+LINE BREAKS
+-Br tags are used to create line breaks
+-HR Tags are used to make a ruler line in our html file
+
+STYLING AND STRUCTURING
+-Style attribute is used to add styles to our tags
+-Always use heading tags in hirarchy fashion
+
+LINKING
+-a tag is used to link another webpage/website to our webpage
+-We can put images, headings, etc. to a tag
+-Target attribute :
+    - default : Navigates in the same tab
+    - __blank : Used to navigate in new tab
+
+IMAGES & VIDEOS
+-Alt attribute is used to show alternative text when the image is not available
+-Width and height are used to control the size of our image
+-controls attribute for a video tag is used to give controls to our video frame
+
+LISTS
+-ul tag is used to create an unordered list
+-ol tag is used to create an ordered list
+
+TABLES
+-table tag is used to define a table inside our html page
+-tr tag is used to define the table row
+-th tag is used to define the table heading, it is used inside the tr tag
+-td tag is used to define the table data, it is used inside the tr tag as well
+-caption tags are used to provide the index for our table
+-colspan attribute is used to merge 2 or more than 2 entries
